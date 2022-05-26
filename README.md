@@ -11,17 +11,13 @@ Just download the client and start playing.
 - GTX 1050 or higher GPU
 - 8 GB of RAM
 
-
 [Click here to download the client](https://drive.google.com)
-
 
 ## Team
 
 Yusuf Keten
 
 Osman Fatih Çakır
-
-
 
 ## Implementation Details
 
@@ -35,6 +31,60 @@ The client is developed with the Unity game engine since Unity has a lot of game
 
 
 
+
+
+
+
+
+
+### Features
+
+**- Register**
+
+![](assets/6.png)
+
+**- Login**
+
+![](assets/5.png)
+
+**- Room rendering**
+  
+![](assets/4.png)
+
+**- Inventory**
+
+![](assets/7.png)
+
+**- Equipment**
+
+![](assets/8.png)
+
+**- Score (stats)**
+
+![](assets/9.png)
+
+**- Combat with animations**
+
+![](assets/10.png)
+
+**- Loot and sacrifice**
+
+**- Custom command line interface**
+
+![](assets/11.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## About MUD
 
 ### What is the MUD?
@@ -45,7 +95,9 @@ The first popular computer adventure game was called Adventure, created by Will 
 
 MUDs are not popular anymore since people prefer more visual games. Nonetheless there are a few active MUD servers that have active players. 
 
-Some active MUD games can be reached from this website: https://www.topmudsites.com
+Some active MUD games can be reached from https://www.topmudsites.com
+
+![](assets/1.png)
 
 ### MUD Gameplay
 The typical MUD will describe to the player the room or area they are standing in, listing the objects, players, and non-player characters (NPCs) in the area, as well as all of the exits. To carry out a task the player would enter a text command such as take apple or attack dragon. Movement around the game environment is generally accomplished by entering the direction (or an abbreviation of it) in which the player wishes to move, for example typing north or just n would cause the player to exit the current area via the path to the north.
@@ -54,3 +106,5 @@ The typical MUD will describe to the player the room or area they are standing i
 Anatolia MUD is a role-playing, player-killing, and adventure-filled multi-user dungeon game, however, it is text-based. Anatolia Mud is based on Rom 2.4 and Rom is based on Merc Diku Mud. Merc Mud is a Diku Mud with many enhancements and contributions.
 
 **Webpage:** http://anatoliamud.com
+
+![](assets/2.png)
